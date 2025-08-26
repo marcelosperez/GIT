@@ -11,7 +11,7 @@
 - Copy the SSH address (you'll it later on Git Bash) and the commands 
   
 # On Git Bash Terminal
-- Type the commands:
+- Type these commands:
 - git add README.md
 - git commit -m "Your message"
 - git branch -M main
