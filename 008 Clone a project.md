@@ -1,15 +1,15 @@
 # Clone a project
 - First go to Github and copy the SSH address of the repository you want to clone.
-- ![alt text](../images/image022.png)
+- ![alt text](images/image022.png)
 - Then go back to Windows Explorer and open(or create) the folder that you want to version with Git.
 - Right-click inside this folder and choose open Git Bash
-- ![alt text](../images/image010.png)
+- ![alt text](images/image010.png)
 - You'll see the Git Bash terminal
-- ![alt text](../images/image009.png)
+- ![alt text](images/image009.png)
 - Type the command "git clone" followed by the SSH address you copied previously
 - git clone SSH address
 - Example:
-- ![alt text](../images/image021.png)
+- ![alt text](images/image021.png)
   
 # Push changes
 - Now add files to this folder and send them to Github by typing the commands below

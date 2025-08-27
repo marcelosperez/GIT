@@ -5,4 +5,4 @@
 - To go back to the current state type:
 - git checkout main
 - This view in the image below is read-only and is designed for browsing only, NOT for typing commands. The colon indicates the end of the content displayed on the screen. To exit this view and return to the command line, you need to type the letter q
-- ![alt text](../images/image020.jpg)
+- ![alt text](images/image020.jpg)
