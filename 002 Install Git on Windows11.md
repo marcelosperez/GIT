@@ -1,4 +1,4 @@
-# Install Git on Windows
+# Install Git on Windows 11
 - First check if it's already installed
 - Type this command on Windows Powershell
 - git --version
