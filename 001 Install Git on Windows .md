@@ -3,7 +3,7 @@
 - Type this command on Windows Powershell
 - git --version
 - ![alt text](images/image018.png)
-- If Powershell shows you some version that means it's already installed, but if shows something like this image below, continue with the installation
+- If Powershell shows you some version that means it's already installed, but if it shows something like this image below, continue with the installation
 - ![message](images/image004.png)
 - Download Git
 - https://git-scm.com/downloads
