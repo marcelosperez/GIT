@@ -25,7 +25,7 @@ Cloning and pulling are two distinct Git commands used to manage code in a repos
 
 # git clone
 
-- Purpose: To get a repository for the first time.5
+- Purpose: To get a repository for the first time.
 - What it does: Downloads the entire project, including all files and the complete commit history, and creates a new local repository on your machine.6
 - When to use it: When you're starting to work on a project and don't have a local copy of the repository yet.7
 - Analogy: It's like downloading a brand-new game you've never played before. You get all the files and data to start from the very beginning.8
