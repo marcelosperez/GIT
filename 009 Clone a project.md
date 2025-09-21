@@ -23,7 +23,7 @@ Cloning and pulling are two distinct Git commands used to manage code in a repos
 - git clone is used to create an initial, complete local copy of a remote repository.2 Think of it as downloading the entire project for the first time. It copies all branches, files, and the full commit history, creating a new local repository on your machine.3 You only need to clone a repository once.4
 ---
 
-**git clone**
+# git clone
 
 - Purpose: To get a repository for the first time.5
 - What it does: Downloads the entire project, including all files and the complete commit history, and creates a new local repository on your machine.6
@@ -31,7 +31,7 @@ Cloning and pulling are two distinct Git commands used to manage code in a repos
 - Analogy: It's like downloading a brand-new game you've never played before. You get all the files and data to start from the very beginning.8
 ---
 
-**git pull**
+# git pull
 
 - Purpose: To update an existing local repository with the latest changes from the remote repository.9
 - What it does: It's a combination of two commands: git fetch (which downloads changes from the remote without integrating them) and git merge (which integrates the downloaded changes into your current local branch).10
